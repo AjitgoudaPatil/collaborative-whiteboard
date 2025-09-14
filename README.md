@@ -288,8 +288,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Made with 💜 by [Your Name](https://github.com/your-username)**
+**Made with 💜 by [Your Name](https://github.com/AjitgoudaPatil)**
 
 *If this project helped you, please consider giving it a star! ⭐*
 
 </div>
+
